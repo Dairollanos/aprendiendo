@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def dashboard(request):
-    return HttpResponse('<h1>loquesea</h1>')
+    return HttpResponse('<h1>loquesea pero la vacila</h1>')
